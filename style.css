@@ -187,7 +187,7 @@ header .navigation a{
 }
 
 header .navigation a:hover{
-  color: #111;
+  color: #fff;
 }
 
 header.sticky .navigation a:hover{
